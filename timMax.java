@@ -10,3 +10,4 @@ public class timMax {
         System.out.println("Số lớn nhất là: "+max);
     }
 }
+//tìm giá trị lớn nhất trong mảng

@@ -11,3 +11,4 @@ public class giaiThuaMang {
         }
     }
 }
+//cho 1 mảng, tính giai thừa các phần tử trong mảng

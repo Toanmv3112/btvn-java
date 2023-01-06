@@ -16,3 +16,4 @@ public class sapXepTang {
         }
     }
 }
+//sắp xếp theo thứ tự tăng dần các phần tử trong mảng
