@@ -8,3 +8,4 @@ public class tinhTongMang {
         System.out.println("Tổng là: " + sum);
     }
 }
+//tính tổng các phần tử của mảng
